@@ -11,10 +11,10 @@ Verification of the core software installation and model acquisition.
 - **Qwen Model**: `qwen3:4b` successfully pulled and listed.
 
 ![Installation Verification](task-1.png)
-*Figure 1: Successful installation of Claude Code.*
+*Figure 1: Successful installation of ollama.*
 
 ![Installation Verification](task-2.png)
-*Figure 2: Successful installation of ollama.*
+*Figure 2: Successful installation of Claude Code.*
 ---
 
 
@@ -33,7 +33,7 @@ Interactive terminal session running the Qwen3:4b model to answer a conceptual q
 - **Query**: "What is Machine Learning?"
 - **Result**: Model successfully generated a definition locally.
 
-![Model Execution](screenshots/task-3.1.png)
+![Model Execution](task-3.1.png)
 *Figure 3: Terminal output showing the model responding to the Machine Learning query.*
 
 ---
